@@ -1,6 +1,6 @@
 # Cómo abrir los apuntes sin configurar SQL Server
 
-Para **leer** los apuntes no hace falta instalar SQL Server, Docker ni configurar la extensión SQL Server de VS Code. Esa configuración ([Guia_Setup.md](Guia_Setup.md)) solo es necesaria para **ejecutar** las consultas.
+Para **leer** los apuntes no hace falta instalar SQL Server, Docker ni configurar la extensión SQL Server de VS Code. Esa configuración ([Guia_Setup.md](Guia_Setup.md)) solo es necesaria para **ejecutar** las consultas. Los archivos ipynb pueden abrirse desde github online o en una IDE.
 
 ## Qué hay en cada carpeta
 
